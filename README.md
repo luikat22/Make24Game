@@ -20,3 +20,5 @@ This file contains the code for front-end, i.e. the Javascript and CSS code.
 ### manage.py
 This is the python file that start the server and open the web application.
 
+### questionbank.csv
+This is data that contains the questions for the game.
